@@ -1,0 +1,20 @@
+button{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.649);
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(79, 141, 185);
+}
+body{
+    background-image: url(bg.jpg);
+}
+h1{
+    color: rgb(162, 107, 244);
+}
+h1:hover{
+
+	text-decoration: underline;
+}
